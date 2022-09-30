@@ -1,6 +1,6 @@
 # linkedlist
 
-<p style="text-align: justify;"> Repo ini sebagai bahan penggumpulan tugas kelas struktur data kelas B kelompok, terdiri dari kelas node, linkedlist searah beserta case study method untuk menghapus node yang duplikat, mengahapus node dengan value spesifik dan menggubah head(node pertama) menjadi tail(node terakhir).Adapun anggota dari kelompok 5 antara lain:
+<p style="text-align: center;"> Repo ini sebagai bahan penggumpulan tugas kelas struktur data kelas B kelompok, terdiri dari kelas node, linkedlist searah beserta case study method untuk menghapus node yang duplikat, mengahapus node dengan value spesifik dan menggubah head(node pertama) menjadi tail(node terakhir).Adapun anggota dari kelompok 5 antara lain:
 <br>
 <br>
 -> Jihan Apriliani Nurhasanah - NIM 11211046 <br>
