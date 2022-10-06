@@ -1,4 +1,3 @@
-
 public class LinkedList {
     private Node head;
     private int length = 0;
@@ -165,6 +164,32 @@ public class LinkedList {
         }
 
         swap(0, lastIndex);
+    }
+
+    public void removeDuplicate() {
+        Node current = head;
+        Node index = null;
+        Node temp = null;
+
+        if (head == null) return;
+
+        while (current != null) {
+            temp = current;
+            index = current.getNext();
+
+            while(index != null) {
+                if (current.getValue() == index.getValue()) {
+                    temp.setNext(index.getNext());
+                } else {
+                    temp = index;
+                }
+
+                index = index.getNext();
+            }
+
+            current = current.getNext();
+        }
+
     }
 
 }
