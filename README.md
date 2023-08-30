@@ -9,4 +9,4 @@ Repo ini sebagai bahan penggumpulan tugas kelas struktur data kelas B kelompok, 
 -> Shafa Putri Sasmito - NIM 11211082 <br>
 -> Wardatul Jannah - NIM 11211084 <br>
  
-
+I am editing the README file. Adding some more details about the project description.	
